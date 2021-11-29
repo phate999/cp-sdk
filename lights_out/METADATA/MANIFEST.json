@@ -1,0 +1,27 @@
+{
+    "app": {
+        "auto_start": true,
+        "date": "2021-11-29T14:27:18.027625",
+        "files": {
+            "csclient.py": "0c6a55c889daf7df554ab1d22e3290cbb45540a081a62b485036d98ef01e681b",
+            "lights_out.py": "c71d8593663c7514e57056aaf259f2a431be7250cad85db107dde150d5490dff",
+            "package.ini": "165f1580730b4b813a55f56fd7598fdf5914b72095632e56ffa75424ae21d4ff",
+            "readme.txt": "ae32e3b17261429fad1ca57fd5fd93d0a2a192a630ef383e265b96b52ff7c9c5",
+            "start.sh": "b64493f0b264eb14ffde8ce0322a9623eb276d7e988959f0eff14494f34c73f3"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 21,
+        "name": "lights_out",
+        "notes": "turn off E-Series light bar",
+        "reboot": true,
+        "restart": true,
+        "uuid": "8a7f79cb-b11b-44bc-bd33-0f4ab3f06d60",
+        "vendor": "Cradlepoint",
+        "version_major": 0,
+        "version_minor": 1
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0
+    }
+}
